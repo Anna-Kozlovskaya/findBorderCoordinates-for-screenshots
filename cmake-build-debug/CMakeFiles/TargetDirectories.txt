@@ -1,0 +1,3 @@
+/home/anna/CLionProjects/findBorderCoordinates/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anna/CLionProjects/findBorderCoordinates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anna/CLionProjects/findBorderCoordinates/cmake-build-debug/CMakeFiles/findBorderCoordinates.dir
